@@ -1,0 +1,21 @@
+c:\users\asus\source\repos\Sesli Komut\bin\Debug\Sesli Komut.exe.config
+c:\users\asus\source\repos\Sesli Komut\bin\Debug\Sesli Komut.exe
+c:\users\asus\source\repos\Sesli Komut\bin\Debug\Sesli Komut.pdb
+c:\users\asus\source\repos\Sesli Komut\obj\Debug\Sesli Komut.csprojResolveAssemblyReference.cache
+c:\users\asus\source\repos\Sesli Komut\obj\Debug\Sesli_Komut.Form1.resources
+c:\users\asus\source\repos\Sesli Komut\obj\Debug\Sesli_Komut.Properties.Resources.resources
+c:\users\asus\source\repos\Sesli Komut\obj\Debug\Sesli Komut.csproj.GenerateResource.Cache
+c:\users\asus\source\repos\Sesli Komut\obj\Debug\Sesli Komut.csproj.CoreCompileInputs.cache
+c:\users\asus\source\repos\Sesli Komut\obj\Debug\Sesli Komut.exe
+c:\users\asus\source\repos\Sesli Komut\obj\Debug\Sesli Komut.pdb
+c:\users\asus\source\repos\Sesli Komut\obj\Debug\Sesli_Komut.Form2.resources
+C:\Users\Asus\source\repos\A.KITAP.RANDOM\Sesli Komut\bin\Debug\Sesli Komut.exe.config
+C:\Users\Asus\source\repos\A.KITAP.RANDOM\Sesli Komut\bin\Debug\Sesli Komut.exe
+C:\Users\Asus\source\repos\A.KITAP.RANDOM\Sesli Komut\bin\Debug\Sesli Komut.pdb
+C:\Users\Asus\source\repos\A.KITAP.RANDOM\Sesli Komut\obj\Debug\Sesli Komut.csprojResolveAssemblyReference.cache
+C:\Users\Asus\source\repos\A.KITAP.RANDOM\Sesli Komut\obj\Debug\Sesli_Komut.Form1.resources
+C:\Users\Asus\source\repos\A.KITAP.RANDOM\Sesli Komut\obj\Debug\Sesli_Komut.Properties.Resources.resources
+C:\Users\Asus\source\repos\A.KITAP.RANDOM\Sesli Komut\obj\Debug\Sesli Komut.csproj.GenerateResource.Cache
+C:\Users\Asus\source\repos\A.KITAP.RANDOM\Sesli Komut\obj\Debug\Sesli Komut.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\A.KITAP.RANDOM\Sesli Komut\obj\Debug\Sesli Komut.exe
+C:\Users\Asus\source\repos\A.KITAP.RANDOM\Sesli Komut\obj\Debug\Sesli Komut.pdb

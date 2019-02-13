@@ -1,0 +1,10 @@
+C:\Users\Asus\source\repos\Speech - KonusmadanTexte\Speech - KonusmadanTexte\bin\Debug\Speech - KonusmadanTexte.exe.config
+C:\Users\Asus\source\repos\Speech - KonusmadanTexte\Speech - KonusmadanTexte\bin\Debug\Speech - KonusmadanTexte.exe
+C:\Users\Asus\source\repos\Speech - KonusmadanTexte\Speech - KonusmadanTexte\bin\Debug\Speech - KonusmadanTexte.pdb
+C:\Users\Asus\source\repos\Speech - KonusmadanTexte\Speech - KonusmadanTexte\obj\Debug\Speech - KonusmadanTexte.csprojResolveAssemblyReference.cache
+C:\Users\Asus\source\repos\Speech - KonusmadanTexte\Speech - KonusmadanTexte\obj\Debug\Speech___KonusmadanTexte.Form1.resources
+C:\Users\Asus\source\repos\Speech - KonusmadanTexte\Speech - KonusmadanTexte\obj\Debug\Speech___KonusmadanTexte.Properties.Resources.resources
+C:\Users\Asus\source\repos\Speech - KonusmadanTexte\Speech - KonusmadanTexte\obj\Debug\Speech - KonusmadanTexte.csproj.GenerateResource.Cache
+C:\Users\Asus\source\repos\Speech - KonusmadanTexte\Speech - KonusmadanTexte\obj\Debug\Speech - KonusmadanTexte.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Speech - KonusmadanTexte\Speech - KonusmadanTexte\obj\Debug\Speech - KonusmadanTexte.exe
+C:\Users\Asus\source\repos\Speech - KonusmadanTexte\Speech - KonusmadanTexte\obj\Debug\Speech - KonusmadanTexte.pdb

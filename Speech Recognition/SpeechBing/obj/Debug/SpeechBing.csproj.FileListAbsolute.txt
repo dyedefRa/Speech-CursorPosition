@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\Speech Recognition\SpeechBing\bin\Debug\SpeechBing.exe.config
+C:\Users\Asus\source\repos\Speech Recognition\SpeechBing\bin\Debug\SpeechBing.exe
+C:\Users\Asus\source\repos\Speech Recognition\SpeechBing\bin\Debug\SpeechBing.pdb
+C:\Users\Asus\source\repos\Speech Recognition\SpeechBing\bin\Debug\SpeechClient.dll
+C:\Users\Asus\source\repos\Speech Recognition\SpeechBing\obj\Debug\SpeechBing.csprojResolveAssemblyReference.cache
+C:\Users\Asus\source\repos\Speech Recognition\SpeechBing\obj\Debug\SpeechBing.Form1.resources
+C:\Users\Asus\source\repos\Speech Recognition\SpeechBing\obj\Debug\SpeechBing.Properties.Resources.resources
+C:\Users\Asus\source\repos\Speech Recognition\SpeechBing\obj\Debug\SpeechBing.csproj.GenerateResource.Cache
+C:\Users\Asus\source\repos\Speech Recognition\SpeechBing\obj\Debug\SpeechBing.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Speech Recognition\SpeechBing\obj\Debug\SpeechBing.exe
+C:\Users\Asus\source\repos\Speech Recognition\SpeechBing\obj\Debug\SpeechBing.pdb

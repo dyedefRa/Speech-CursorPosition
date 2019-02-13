@@ -1,0 +1,12 @@
+C:\Users\Asus\source\repos\Speech  - TexttenKonusmaya\Speech  - TexttenKonusmaya\bin\Debug\Speech  - TexttenKonusmaya.exe.config
+C:\Users\Asus\source\repos\Speech  - TexttenKonusmaya\Speech  - TexttenKonusmaya\bin\Debug\Speech  - TexttenKonusmaya.exe
+C:\Users\Asus\source\repos\Speech  - TexttenKonusmaya\Speech  - TexttenKonusmaya\bin\Debug\Speech  - TexttenKonusmaya.pdb
+C:\Users\Asus\source\repos\Speech  - TexttenKonusmaya\Speech  - TexttenKonusmaya\obj\Debug\Speech  - TexttenKonusmaya.csprojResolveAssemblyReference.cache
+C:\Users\Asus\source\repos\Speech  - TexttenKonusmaya\Speech  - TexttenKonusmaya\obj\Debug\Interop.SpeechLib.dll
+C:\Users\Asus\source\repos\Speech  - TexttenKonusmaya\Speech  - TexttenKonusmaya\obj\Debug\Speech  - TexttenKonusmaya.csproj.ResolveComReference.cache
+C:\Users\Asus\source\repos\Speech  - TexttenKonusmaya\Speech  - TexttenKonusmaya\obj\Debug\Speech____TexttenKonusmaya.Form1.resources
+C:\Users\Asus\source\repos\Speech  - TexttenKonusmaya\Speech  - TexttenKonusmaya\obj\Debug\Speech____TexttenKonusmaya.Properties.Resources.resources
+C:\Users\Asus\source\repos\Speech  - TexttenKonusmaya\Speech  - TexttenKonusmaya\obj\Debug\Speech  - TexttenKonusmaya.csproj.GenerateResource.Cache
+C:\Users\Asus\source\repos\Speech  - TexttenKonusmaya\Speech  - TexttenKonusmaya\obj\Debug\Speech  - TexttenKonusmaya.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Speech  - TexttenKonusmaya\Speech  - TexttenKonusmaya\obj\Debug\Speech  - TexttenKonusmaya.exe
+C:\Users\Asus\source\repos\Speech  - TexttenKonusmaya\Speech  - TexttenKonusmaya\obj\Debug\Speech  - TexttenKonusmaya.pdb
